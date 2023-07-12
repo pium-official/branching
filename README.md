@@ -1,5 +1,7 @@
 # 피움팀을 소개합니다~
-- 
+
+Easy Gardening Pium 🌱
+
 - [조이](joy/README.md)
 - [그레이](gray/README.md)
 - [주노](juno/README.md)
