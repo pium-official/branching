@@ -9,3 +9,8 @@ Easy Gardening Pium 🌱
 - [참새](chamsae/README.md)
 - [쵸파](chopper/README.md)
 - [클린](clean/README.md)
+
+# 담당코치
+
+- 포비
+- 크론
